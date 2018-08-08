@@ -1,6 +1,6 @@
 body{
     font-family: 'Hind Madurai', sans-serif;
-    background: linear-gradient(rgb(94, 226, 220),rgb(94, 226, 193), rgb(215, 250, 169),rgb(140, 224, 154),rgb(97, 175, 114));
+    background: linear-gradient(#5ee2dc,#5ee2c1, #d7faa9,#8ce09a,rgb(97, 175, 114));
 }
 .title{
     grid-column: 1/8;
